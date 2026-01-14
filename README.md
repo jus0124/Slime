@@ -82,22 +82,22 @@
 
 ## 스크린샷 및 상세 설명
 
-<img src="" width="350">
+<img src="img/005.png" width="350">
 
 메인화면입니다.
 
-<img src="" width="350">
+<img src="img/006.png" width="350">
 
-ㅁㅁㅁ
+인 게임 화면입니다. 마우스 위치에 십자선이 위치하고 마우스 좌클릭 시 총알이 나갑니다.
 
-<img src="" width="350">
+<img src="img/007.png" width="350">
 
-ㅁㅁㅁ
+일시정지 화면입니다.
 
-<img src="" width="350">
+<img src="img/008.png" width="350">
 
-ㅁㅁㅁ
+상점 화면 입니다.
 
-<img src="" width="350">
+<img src="img/009.png" width="350">
 
-ㅁㅁㅁ
+전투 화면 입니다. 몬스터의 머리를 맞추면 데미지를 입습니다.
