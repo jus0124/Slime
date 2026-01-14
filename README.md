@@ -3,7 +3,7 @@
 ## 개요
 유니티를 활용하여 2D 횡스크롤 FPS 게임을 만들었습니다. 에셋스토어의 무료 에셋과 AI를 이용한 이미지를 에셋으로 활용하였습니다. 
 
-
+## 개발환경
 | 하드웨어 환경 | 소프트웨어 환경 |
 | --- | --- |
 | CPU : Ryzen 7 7800X3D <br><br>GPU : NVIDIA GeForce 4060TI 8GB <br>8Gbps(Memory Speed), Compute Capability 6.1 <br><br>Memory : 16GB, 2133MHz<br><br>저장장치 : HDD | Platform : Unity Version 6000.1.4f<br><br> C#: ver 9.0 |
