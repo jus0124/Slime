@@ -9,7 +9,7 @@
 | CPU : Ryzen 7 7800X3D <br><br>GPU : NVIDIA GeForce 4060TI 8GB <br>8Gbps(Memory Speed), Compute Capability 6.1 <br><br>Memory : 16GB, 2133MHz<br><br>저장장치 : HDD | Platform : Unity Version 6000.1.4f<br><br> C#: ver 9.0 |
 
 
-## 내용 1. 주요 유스케이프 명세서
+## 주요 유스케이프 명세서
 <br>
 <center><강화 및 무기 변경 유스케이프 명세서><center>
 <br>
@@ -59,11 +59,12 @@
 |대안 흐름|2A<br>공격 오브젝트의 경우 총알의 속성과 공격의 속성을 비교하여 총알의 속성이 우세한 경우 공격의 오브젝트도 같이 사라진다.<br><br>3A<br>플레이어가 무적 판정일 경우에는 체력이 소모되지 않는다.|
 |종료 조건|플레이어가 사망하면 마을의 스폰 지점으로 돌아간다.|
 <br><br>
-## 내용 2. 아키택쳐 설계
+
+## 게임 흐름도
 
 
 <br>
-## 내용 3. 몬스터 패턴 원리 및 설명
+## 몬스터 패턴 원리 및 설명
 
 <br>
 <img src="">
