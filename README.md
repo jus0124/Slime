@@ -72,10 +72,8 @@
 <br>
 <img src="img/002.png" width="350">
 
-<br>
 <img src="img/003.png" width="350">
 
-<br>
 <img src="img/004.png" width="350">
 
 <center><그림2. 시스템 구성도 ></center>
